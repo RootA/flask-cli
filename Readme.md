@@ -1,6 +1,17 @@
-### Author : Antony Mwathi 
-### Copyright : FluidTech Global
+`Author : Antony Mwathi` <br>
+`Copyright : FluidTech Global`
 
-`python app.py -h` <br/>
+# Step 1
+```sh
+    chmod 777 install.sh
+```
 
-`python app.py -p project_name`
+# Step 2
+```console
+    ./install.sh
+```
+# Step 3
+
+```bash
+    flaskcli -p project_name
+```
