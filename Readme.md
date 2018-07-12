@@ -2,7 +2,7 @@
 `Copyright : FluidTech Global`
 
 # Step 1
-```sh
+```console
     chmod 777 install.sh
 ```
 
@@ -12,6 +12,6 @@
 ```
 # Step 3
 
-```bash
+```console
     flaskcli -p project_name
 ```
